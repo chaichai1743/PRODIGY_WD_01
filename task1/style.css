@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Single+Day&family=Truculenta:opsz,wght@12..72,100..900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  background-color: #ece0d1;
+  
+
+}
+.container{
+  max-width: 80vw;
+
+}
+.navbar{
+  display: flex;
+  height: 67px;
+  
+  font-size: 25px;
+}
+.navbar li{
+  list-style: none;
+  margin: 0 12px;
+  
+}
+.topleft{
+  width: 50%; 
+  height: 50vh;
+}
+.topright{
+  width: 50%;
+  height: 50vh;
+}
+.section1 h1{
+  font-size: 40px;
+    color: #38220f;
+    
+    
+}
+.section2{
+  padding-left: 63px;
+  padding-right: 63px;
+
+}
+
+.logo{
+  font-size: 2rem;
+}
+.coffeebeans{
+  height: 50px;
+  width: 50px;
+  
+}
+.box{
+  margin: 12px 22px;
+}
+
+.gingerbread{
+  height: 200px;
+  justify-content: baseline;
+  
+
+}
+.apple{
+  height: 150px;
+  margin-top: 20px;
+  padding-left: 40px;
+
+}
+.ginger{
+  padding-left: 40px;
+  
+
+}
+
+footer{
+  padding: 23px;
+  text-align: center;
+
+}
